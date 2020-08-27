@@ -1,7 +1,7 @@
 export const config = {
   github: {
-    owner: 'sbstjn',
+    owner: 'DaltJM',
     repository: 'cra-pipeline',
   },
-  env: { region: 'us-east-1' },
+  env: { region: 'ap-southeast-2' },
 }
